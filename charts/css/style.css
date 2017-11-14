@@ -1,0 +1,44 @@
+#logo
+{
+	position: absolute;
+	right:10px;
+	top:15px;
+	font-size: 15px;
+	width: 76px; height: 59px;
+	z-index: 2;
+}
+
+.chart-container
+{
+    width: 100%;
+    height: 100%;
+    margin:0 auto;
+}
+
+.jumbotron
+{
+    text-align:center;
+}
+
+.footer-bottom {
+    background-color: #15224f;
+    min-height: 30px;
+    width: 100%;
+}
+
+.copyright {
+    color: #fff;
+    line-height: 30px;
+    min-height: 30px;
+    padding: 7px 0;
+}
+.design {
+    color: #fff;
+    line-height: 30px;
+    min-height: 30px;
+    padding: 7px 0;
+    text-align: center;
+}
+.design a {
+    color: #fff;
+}
